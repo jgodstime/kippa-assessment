@@ -11,7 +11,6 @@ Switch to the repo folder
 
 Note: your PHP version should be atleast 8.0
 
-Create db name 
 
 Install all the dependencies using composer
 
